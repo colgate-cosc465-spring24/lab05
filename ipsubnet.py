@@ -1,5 +1,10 @@
 #!/usr/bin/python3
 
+#####
+# COSC 465: Computer Networks, Spring 2022
+# Lab 02: Using sockets
+#####
+
 import ipaddress
 
 """Returns True if subnet is a subnetwork of supernet"""
