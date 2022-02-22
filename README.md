@@ -1,4 +1,4 @@
-# Lab 04: Subnetting and supernetting
+# Lab 04: Internet Protocol (IP) subnets
 
 ## Overview
 In this lab, you will implement two functions for analyzing Internet Protocol (IP) subnets. 
