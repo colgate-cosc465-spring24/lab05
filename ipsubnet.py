@@ -16,11 +16,3 @@ def is_adjacent(netA, netB):
     # TODO
 
     return False
-
-"""Returns the supernetwork that encompasses both netA and netB, or None if the 
-networks cannot be combined into a supernetwork"""
-def aggregate(netA, netB):
-
-    # TODO
-
-    return None
