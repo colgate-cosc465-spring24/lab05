@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 
 #####
-# COSC 465: Computer Networks, Spring 2022
-# Lab 02: Using sockets
+# COSC 465: Computer Networks, Spring 2024
+# Lab 05: Internet Protocol (IP) subnets
 #####
 
 import ipaddress

@@ -1,4 +1,4 @@
-# Lab 04: Internet Protocol (IP) subnets
+# Lab 05: Internet Protocol (IP) subnets
 
 ## Overview
 In this lab, you will implement two functions for analyzing Internet Protocol (IP) subnets. 
@@ -9,11 +9,9 @@ After completing this lab, you should be able to:
 * Write functions that mask and compare IP addresses
 
 ## Getting started
-Clone your git repository on the `tigers` servers.
+Clone your git repository on a tigers servers.
 
-Visit **[this page](https://classroom.github.com/g/ABSbHhya)** to create and obtain access to a private git repo containing the module whose functions you will need to complete (`ipsubnet.py`) and unit tests for each function (`test_is_subnet.py`, `test_is_adjacent.py`, `test_aggregate.py`).
-
-As you work on this lab, you should refer to the [documentation for the ipaddress](https://docs.python.org/3.8/library/ipaddress.html) Python library. Make sure you consult the documentation for the Python 3.8 version of this library, which is the version installed on the `trigers` servers; older/newer versions of this library have different capabilities. Also, you may want to refer to the recommended reading [Understanding IP Addresses, Subnets, and CIDR Notation for Networking](https://www.digitalocean.com/community/tutorials/understanding-ip-addresses-subnets-and-cidr-notation-for-networking) and/or use a [subnet calculator](http://www.subnet-calculator.com/cidr.php) to help you better understand how network addresses are related.
+As you work on this lab, you should refer to the [documentation for the ipaddress](https://docs.python.org/3.8/library/ipaddress.html) Python library. Make sure you consult the documentation for the Python 3.8 version of this library, which is the version installed on the tigers servers; older/newer versions of this library have different capabilities. Also, you may want to refer to the recommended reading [Understanding IP Addresses, Subnets, and CIDR Notation for Networking](https://www.digitalocean.com/community/tutorials/understanding-ip-addresses-subnets-and-cidr-notation-for-networking) and/or use a [subnet calculator](http://www.subnet-calculator.com/cidr.php) to help you better understand how network addresses are related.
 
 ## Part 1: `is_subnet`
 
@@ -41,5 +39,5 @@ You can assume the parameters will be <code>[IPv4Network](https://docs.python.or
 
 You can test your functions by running `test_is_adjacent.py`, which contains 8 unit tests. You are also welcome (but not required) to add your own unit tests to this file.
 
-## Submission instructions
-When you are done, commit and push your changes to GitHub.
+## Self-assessment
+The self-assessment for this lab will be available on Moodle after 5pm on Thursday, February 22. Please complete the self-assessment by 11pm on Monday, February 26.
