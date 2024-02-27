@@ -40,4 +40,4 @@ You can assume the parameters will be <code>[IPv4Network](https://docs.python.or
 You can test your functions by running `test_is_adjacent.py`, which contains 8 unit tests. You are also welcome (but not required) to add your own unit tests to this file.
 
 ## Self-assessment
-The self-assessment for this lab will be available on Moodle after 5pm on Thursday, February 22. Please complete the self-assessment by 11pm on Monday, February 26.
+The self-assessment for this lab will be available on Moodle after 1pm on Friday, March 1st. Please complete the self-assessment by 11pm on Monday, March 4th.
